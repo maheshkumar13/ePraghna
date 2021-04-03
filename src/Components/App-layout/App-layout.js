@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App-layout.css';
 // devlopment branch
-class App-layout extends Component {
+class Applayout extends Component {
   // constructor(props){
     // super(props);
     // this.state = {};
@@ -23,4 +23,4 @@ class App-layout extends Component {
   }
 }
 
-export default App-layout;
+export default Applayout;
